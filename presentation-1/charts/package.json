@@ -1,0 +1,12 @@
+{
+  "name": "cst8912-presentation-charts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build_charts.ts"
+  },
+  "dependencies": {
+    "echarts": "^6.1.0",
+    "sharp": "0.34.2"
+  }
+}
